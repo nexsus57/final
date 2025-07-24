@@ -20,7 +20,7 @@ const AboutPage = () => {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div>
-                <img src="https://images.unsplash.com/photo-1581092921462-63f1c1e9518d?q=80&w=2070&auto=format&fit=crop" alt="Tape India Factory" className="rounded-lg shadow-xl" loading="lazy" decoding="async"/>
+                <img src="https://images.pexels.com/photos/1267338/pexels-photo-1267338.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Tape India Factory" className="rounded-lg shadow-xl" loading="lazy" decoding="async"/>
                 </div>
                 <div className="space-y-6">
                 <h2 className="text-3xl font-semibold text-brand-blue-dark">Our Story</h2>

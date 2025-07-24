@@ -22,7 +22,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="relative bg-brand-blue text-white h-[60vh] min-h-[400px] flex items-center justify-center text-center">
         <div className="absolute inset-0 bg-black opacity-40"></div>
-        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1573523478440-349a685b81a3?q=80&w=2070&auto=format&fit=crop')" }}></div>
+        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.pexels.com/photos/1267338/pexels-photo-1267338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')" }}></div>
         <div className="relative z-10 p-4">
           <h1 className="text-4xl md:text-6xl font-extrabold mb-4 drop-shadow-lg">
             High-Performance Industrial Tapes
